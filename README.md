@@ -1,2 +1,8 @@
-# stress-what-in-his-head
-מה עובר לו בראש? · Lazarus stress model game: what's going on in his head?
+# מה עובר לו בראש?
+
+משחק על מודל האינטראקציה של לזרוס ללחץ: מזהים מה הדמות חושבת (הערכה ראשונית ומשנית) ואיך זה משפיע על הלחץ. להטמעה בג'ניאלי.
+
+**לינק לאתר החי:** https://stress-what-in-his-head.sites.tab.bot/
+
+---
+אתר סטטי (HTML/CSS/JS). כדי להריץ מקומית: לפתוח את `index.html` בדפדפן, או להפעיל שרת פשוט בתיקייה.
